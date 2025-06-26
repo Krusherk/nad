@@ -1,0 +1,4 @@
+{
+  "name": "commission-connect",
+  "scripts": { "dev": "next dev" }
+}
